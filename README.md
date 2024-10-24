@@ -12,7 +12,7 @@ The Reservation Service is a Spring Boot application that provides RESTful APIs 
 - make sure that the restaurant service is up and runing before this steps for the integration test
 - mvn clean package
 - run the application
-The application will start on http://localhost:8081.
+- The application will start on http://localhost:8081.
 
 ### Make sure to start the RestaurantService application before running the tests.
 You can find the RestaurantService application at this url: [http://....](https://github.com/abakkari/restaurant-service/tree/main)
